@@ -1,8 +1,12 @@
 ### 👋 Olá! Eu sou Vinicius. Seja bem vindo ao meu perfil :)
 
+##
+
 - 🔭 Atualmente não trabalho com nenhuma tecnologia
 - 🌱 Atualmente estou aprendendo HTML | CSS | JAVASCRIPT | UI/UX Designer | Python
 - 📫 contactuvinicius@gmail.com
+
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
