@@ -1,6 +1,4 @@
-### 👋 Olá! Eu sou Vinicius. Seja bem vindo ao meu perfil :)
-
-##
+# 👋 Olá! Eu sou Vinicius. Seja bem vindo ao meu perfil :)
 
 - 🔭 Atualmente não trabalho com nenhuma tecnologia
 - 🌱 Atualmente estou aprendendo HTML | CSS | JAVASCRIPT | UI/UX Designer | Python
