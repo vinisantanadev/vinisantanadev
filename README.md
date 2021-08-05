@@ -1,9 +1,14 @@
 # 👋 Olá! Eu sou Vinicius. Seja bem vindo ao meu perfil :)
 
-- 🔭 Atualmente não trabalho com nenhuma tecnologia
-- 🌱 Atualmente estou aprendendo HTML | CSS | JAVASCRIPT | UI/UX Designer | Python
-- 📫 contactuvinicius@gmail.com
+### - 🌱 Atualmente estou aprendendo: <br>
+ 
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
+  ##
 
+### - 📫 contactuvinicius@gmail.com
 ##
 
  <div>
