@@ -1,4 +1,9 @@
-# 👋 Olá! Eu sou Vinicius. Seja bem vindo ao meu perfil :)
+ <div align="center">
+  <img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/vinicius.png" width="666"></img>
+ </div>
+ 
+ ##
+
 
 <img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/code.gif" height="209" align="right"></img>
 
