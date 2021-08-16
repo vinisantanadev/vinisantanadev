@@ -1,5 +1,8 @@
 # 👋 Olá! Eu sou Vinicius. Seja bem vindo ao meu perfil :)
 
+<img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/code.gif" height="209" align="right"></img>
+
+
 ### · 🌱 Atualmente estou aprendendo: <br>
  
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
