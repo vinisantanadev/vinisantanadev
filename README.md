@@ -1,9 +1,8 @@
- <div align="center">
+<div align="center">
   <img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/vinicius.png" width="666"></img>
- </div>
+</div>
  
- ##
-
+##
 
 <img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/code.gif" height="209" align="right"></img>
 
