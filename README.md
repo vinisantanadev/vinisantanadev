@@ -9,7 +9,7 @@
 <img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/code.gif" height="266" align="right"></img>
 
 
-# · 🌱 Atualmente estou aprendendo: <br>
+### · 🌱 Atualmente estou aprendendo: <br>
  
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
