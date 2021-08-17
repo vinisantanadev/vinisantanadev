@@ -34,6 +34,8 @@
 
 ### · 📫 contactuvinicius@gmail.com
 
+---
+
  <div align="center">
   <a href="https://github.com/ViniciusCS-Dev">
   <img height="199em" src="https://github-readme-stats.vercel.app/api?username=vinisantanadev&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
