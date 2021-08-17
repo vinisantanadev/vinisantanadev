@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></img>
   
   
-  Graças ao professor <a href="https://github.com/gustavoguanabara">**@gustavoguanabara**</a>
+  Com ajuda do professor <a href="https://github.com/gustavoguanabara">**@gustavoguanabara**</a>
   
   ---
  
