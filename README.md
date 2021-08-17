@@ -9,7 +9,7 @@
 <img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/code.gif" height="266" align="right"></img>
 
 
-### · 🌱 Atualmente estou aprendendo: <br>
+# · 🌱 Atualmente estou aprendendo: <br>
  
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
@@ -58,7 +58,40 @@
   
 ---
 
+### · 💻 Distro information:
 
+```
+~$ neofetch
+```
+
+
+<img src="https://b.thumbs.redditmedia.com/lsvm58KI2GuT8zdkdV2FWfjZ4Jk3MqTMViDcrc2g3Ko.png" align="left" width="366"></img>
+
+
+<div align="left">
+
+  ```
+    vinicius@pop-os-best-distro 
+    --------------------------- 
+    OS: Pop!_OS 20.10 x86_64 
+    Kernel: 5.11.0-7620-generic 
+    Uptime: 8 hours, 6 mins 
+    Packages: 2913 (dpkg), 23 (flatpak), 21 (snap) 
+    Shell: bash 5.0.17 
+    Resolution: 1920x1080 
+    DE: GNOME 3.38.3 
+    WM: Mutter 
+    WM Theme: Pop 
+    Theme: WhiteSur-dark [GTK2/3] 
+    Icons: WhiteSur-dark [GTK2/3] 
+    Terminal: gnome-terminal 
+    CPU: Intel i5-8400 (6) @ 4.000GHz 
+    GPU: Intel UHD Graphics 630 
+    Memory: 7007MiB / 14909MiB 
+
+  ```
+</div
+  
 <!--
 **ViniciusCS-Dev/ViniciusCS-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
