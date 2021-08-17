@@ -57,11 +57,6 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></img>
   
 ---
-  
-<img src="https://media.giphy.com/media/VFwqpRsk3FbRB8rP7f/giphy.gif" width="133https://media.giphy.com/media/VFwqpRsk3FbRB8rP7f/giphy.gif" align="right"></img>
-
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/u4gvcutzbsbciok1y1j77vubp)
 
 
 <!--
