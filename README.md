@@ -4,7 +4,7 @@
 
 
  
-##
+---
 
 <img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/code.gif" height="266" align="right"></img>
 
@@ -28,11 +28,11 @@
   
   
   Graças ao professor <a href="https://github.com/gustavoguanabara">**@gustavoguanabara**</a>
-  ##
+  
+  ---
  
 
 ### · 📫 contactuvinicius@gmail.com
-##
 
  <div align="center">
   <a href="https://github.com/ViniciusCS-Dev">
@@ -40,7 +40,7 @@
   <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisantanadev&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
-##
+---
   
 ### · ⚒️ Others & likes: <br>
 
@@ -56,6 +56,12 @@
   <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"></img>
   
+---
+  
+<img src="https://media.giphy.com/media/VFwqpRsk3FbRB8rP7f/giphy.gif" width="133https://media.giphy.com/media/VFwqpRsk3FbRB8rP7f/giphy.gif" align="right"></img>
+
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/u4gvcutzbsbciok1y1j77vubp)
 
 
 <!--
