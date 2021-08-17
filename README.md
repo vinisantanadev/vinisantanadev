@@ -65,7 +65,7 @@
 ```
 
 
-<img src="https://b.thumbs.redditmedia.com/lsvm58KI2GuT8zdkdV2FWfjZ4Jk3MqTMViDcrc2g3Ko.png" align="left" width="366"></img>
+<img src="https://b.thumbs.redditmedia.com/lsvm58KI2GuT8zdkdV2FWfjZ4Jk3MqTMViDcrc2g3Ko.png" align="left" width="333"></img>
 
 
 <div align="left">
