@@ -96,7 +96,7 @@
   
 ---
 
-<img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/sp.png"></img>
+<img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/sp.svg"></img>
 
 <!--
 **ViniciusCS-Dev/ViniciusCS-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
