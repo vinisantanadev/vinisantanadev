@@ -6,7 +6,7 @@
  
 ---
 
-<img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/code.gif" height="266" align="right"></img>
+<img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/undraw_programming_re_kg9v.svg" height="266" align="right"></img>
 
 
 ### · 🌱 Learning: <br>
