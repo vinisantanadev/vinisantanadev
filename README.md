@@ -6,7 +6,7 @@
  
 ---
 
-<img src="https://github.com/vinisantanadev/vinisantanadev/blob/main/undraw_programming_re_kg9v.svg" height="266" align="right"></img>
+<a href="https://app.daily.dev/vinisantanadev"><img src="https://api.daily.dev/devcards/6cb62e8dc9514265af5ee8ae019787ea.png?r=c04" width="266" align="right" alt="Vinicius Santana's Dev Card"/></a>
 
 
 ### · 🌱 Learning: <br>
